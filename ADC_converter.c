@@ -8,7 +8,7 @@ the voltage value range 0 to 15 volt.
 double converter(int adc);
 
 int main(){
-    double x = converter(1500);
+    double x = converter(1257);
     printf("%.2f",x);
     return 0;
 }

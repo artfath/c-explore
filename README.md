@@ -6,3 +6,5 @@ Functional progamming set in C language
 * ADC converter
 * Concatenate String
 * String converter
+* Average Number
+* Kalman Filter
