@@ -8,3 +8,4 @@ Functional progamming set in C language
 * String converter
 * Average Number
 * Kalman Filter
+* Split String

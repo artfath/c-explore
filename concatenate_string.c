@@ -32,7 +32,7 @@ return: string value
 char *concatenate_string(char *str[], int row){
     char *s;
     int len = 0;
-    int *length = (int*) malloc(row * sizeof(int));;
+    int *length = (int*) malloc(row * sizeof(int));
     int m=0;
 
     for(int f = 0; f < row; f++){
