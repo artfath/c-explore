@@ -2,10 +2,11 @@
 Functional progamming set in C language
 
 ## List function:
-* 2 Multiplexer 8 channel
-* ADC converter
+* 2 Multiplexer 8 Channel
+* ADC Converter
 * Concatenate String
-* String converter
+* String Converter
 * Average Number
 * Kalman Filter
 * Split String
+* Decimal to Binary
